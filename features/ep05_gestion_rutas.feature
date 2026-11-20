@@ -10,7 +10,7 @@ Característica: Gestión de rutas de recolección (EP05)
     Entonces el sistema muestra el resultado "<resultado_esperado>"
 
     Ejemplos:
-      | funcionario  | zona     | periodo      | accion_creacion | parada         | accion_cierre  | resultado_esperado                        |
-      | Edgar Campos | Zona 01  | Turno Mañana | Crear ruta      | Av. Canto Rey  | Confirmar ruta | Ruta definitiva guardada para la zona     |
-      | Edgar Campos | Zona 02  | Turno Tarde  | Crear ruta      | Ninguna        | Crear ruta     | No existen datos suficientes para la ruta |
-      | Edgar Campos | Zona 03  | Turno Noche  | Crear ruta      | Jr. Los Andes  | Cancelar       | Cambios descartados; ruta previa mantenida|
+      | funcionario  | zona    | periodo      | accion_creacion | parada         | accion_cierre  | resultado_esperado                         |
+      | Edgar Campos | Zona 01 | Turno Mañana | Crear ruta      | Av. Canto Rey  | Confirmar ruta | Ruta definitiva guardada para la zona      |
+      | Edgar Campos | Zona 02 | Turno Tarde  | Crear ruta      | Ninguna        | Crear ruta     | No existen datos suficientes para la ruta  |
+      | Edgar Campos | Zona 03 | Turno Noche  | Crear ruta      | Jr. Los Andes  | Cancelar       | Cambios descartados; ruta previa mantenida |
