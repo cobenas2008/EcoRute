@@ -12,8 +12,8 @@ Característica: Gestión de reportes ciudadanos (EP02)
 
     Ejemplos:
       | ciudadano | distrito | foto           | descripcion                  | mensaje                                   | estado      |
-      | Sayuri    | SJL      | punto_01.jpg   | Acumulación en Av. Próceres  | Ticket generado con vigencia de 24 horas  | En Revisión |
-      | Sayuri    | SJL      |                | Basura en esquina            | El reporte debe incluir una foto          | Rechazado   |
+      | María     | SJL      | punto_01.jpg   | Acumulación en Av. Próceres  | Ticket generado con vigencia de 24 horas  | En Revisión |
+      | Laura     | SJL      |                | Basura en esquina            | El reporte debe incluir una foto          | Rechazado   |
       | Matías    | VES      | residuo_02.jpg |                              | El reporte debe incluir una descripción   | Rechazado   |
       | Matías    | VES      |                |                              | Debe incluir información de su reporte    | Rechazado   |
 
