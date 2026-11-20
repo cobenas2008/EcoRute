@@ -1,5 +1,5 @@
 # language: es
-Característica: Gestión de rutas de recolección (EP05)
+Característica: Gestión de rutas de recolección (EP05) 
   Como funcionario municipal
   Quiero crear, editar y confirmar rutas de recolección por zona y periodo
   Para planificar el recorrido de los camiones recolectores de forma eficiente
