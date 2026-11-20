@@ -5,7 +5,7 @@ Característica: Gestión de rutas de recolección (EP05)
   Para planificar el recorrido de los camiones recolectores de forma eficiente
 
   Esquema del escenario: Creación, edición y confirmación de ruta (US11, US12, US13)
-    Dado que el funcionario "<funcionario>" se encuentra en gestión de rutas para la zona "<zona>" y periodo "<periodo>"
+    Dado que el funcionario "<funcionario>" se encuentra en gestión de rutas para la zona "<zona>" y periodo "<periodo>" 
     Cuando selecciona "<accion_creacion>", edita la parada "<parada>" y ejecuta "<accion_cierre>"
     Entonces el sistema muestra el resultado "<resultado_esperado>"
 
