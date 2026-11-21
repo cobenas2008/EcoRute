@@ -1,4 +1,4 @@
-# language: es
+# Language: ES
 Característica: Gestión de rutas de recolección (EP05) 
   Como funcionario municipal
   Quiero crear, editar y confirmar rutas de recolección por zona y periodo
