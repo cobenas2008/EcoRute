@@ -1,4 +1,4 @@
-# language: es
+# Language: ES
 Característica: Gestión de reportes ciudadanos (EP02)
   Como ciudadano y funcionario municipal
   Quiero registrar, consultar y actualizar reportes de acumulación de residuos
