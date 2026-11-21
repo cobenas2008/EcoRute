@@ -1,4 +1,4 @@
-# language: es
+# Language: ES
 Característica: Requerimientos no funcionales de EcoRoute
   Como usuario de la aplicación móvil o panel municipal de EcoRoute
   Quiero que el sistema responda rápido, proteja los datos y funcione ante fallos o distintos tamaños de pantalla
